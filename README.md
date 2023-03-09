@@ -1,7 +1,7 @@
 ## sample blog web app laravel
 <p align="center">
-<img src="public/image1.png" width="600" height="200" />
 <img src="public/image2.png" width="600" height="200" />
+<img src="public/image1.png" width="600" height="200" />
 </p>
 
 ***You can run this project by following the steps that I mentioned below.***<br>
